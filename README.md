@@ -774,7 +774,7 @@ Narrate_IQ/
 ## Clone
 
 ```bash
-git clone https://github.com/diptiman11/Narrate_IQ.git
+git clone https://github.com/Priyanshu11-web/Narrate_AI.git
 cd Narrate_IQ
 ```
 
